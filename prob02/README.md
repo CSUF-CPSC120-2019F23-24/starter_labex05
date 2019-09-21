@@ -14,7 +14,7 @@ In this program, you will debug a program that contains the following errors:
 # Hints
 1. The compiler outputs the line number and column of the error if a compile time error is encountered
    e.g., `main.cpp:27:37` indicates an error in your code on line 27, column 37
-1. Make sure the username output includes both of the initials that you type for middle name and last name
+1. Make sure the username output includes the quotation marks as well as both of the initials that you type for middle name and last name
 
 # Sample Output
 ```
