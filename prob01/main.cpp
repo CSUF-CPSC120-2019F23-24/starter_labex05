@@ -46,7 +46,7 @@ int main()
   // TODO#3 add comment describing why f2 says "inf"
   // hint: look up the maximum value a float can hold in our quick reference guide
   std::cout << "\n**comment**" << std::endl;
-  std::cout << std::setprecision(0);
+  std::cout << std::setprecision(0); // this removes the decimal portion since we don't need to see it for the new large value
   std::cout << sizeof(d3) << " bytes, value: " << d3 << std::endl;
   std::cout << sizeof(f3) << " bytes, value: " << f3 << std::endl;
 
