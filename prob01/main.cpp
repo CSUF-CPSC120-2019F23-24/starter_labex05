@@ -44,6 +44,7 @@ int main()
   float f3 = 3.5E38;
 
   // TODO#3 add comment describing why f2 says "inf"
+  // hint: look up the maximum value a float can hold in our quick reference guide
   std::cout << "\n**comment**" << std::endl;
   std::cout << std::setprecision(0);
   std::cout << sizeof(d3) << " bytes, value: " << d3 << std::endl;
