@@ -48,7 +48,7 @@ int main()
   std::cout << "\n**comment**" << std::endl;
   std::cout << std::setprecision(0);
   std::cout << sizeof(d3) << " bytes, value: " << d3 << std::endl;
-  std::cout << sizeof(f2) << " bytes, value: " << f3 << std::endl;
+  std::cout << sizeof(f3) << " bytes, value: " << f3 << std::endl;
 
   return 0;
 }
